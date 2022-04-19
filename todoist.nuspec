@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>todoist</id>
+    <version>1.0.7</version>
+    <title>Todoist</title>
+    <authors>BenjaminMichaelis</authors>
+    <licenseUrl>https://doist.com/terms-of-service</licenseUrl>
+    <projectUrl>https://todoist.com/</projectUrl>
+    <tags>todoist to-do lists</tags>
+    <summary>Organize it all with Todoist</summary>
+    <description><![CDATA[
+      Free up your mental space
+      Regain clarity and calmness by getting all those tasks out of your head and onto your to-do list (no matter where you are or what device you use).
+      ]]></description>
+    <copyright>© Doist Inc.</copyright>
+    <packageSourceUrl>https://github.com/chocolatey-community/chocolatey-packages/tree/master/automatic/1password</packageSourceUrl>
+  </metadata>
+  <files>
+    <!-- this section controls what actually gets packaged into the Chocolatey package -->
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
