@@ -15,7 +15,7 @@
       Regain clarity and calmness by getting all those tasks out of your head and onto your to-do list (no matter where you are or what device you use).
       ]]></description>
     <copyright>© Doist Inc.</copyright>
-    <packageSourceUrl>https://github.com/chocolatey-community/chocolatey-packages/tree/master/automatic/1password</packageSourceUrl>
+    <packageSourceUrl>https://github.com/BenjaminMichaelis/Chocolatey-Packages/tree/main/todoist</packageSourceUrl>
   </metadata>
   <files>
     <!-- this section controls what actually gets packaged into the Chocolatey package -->
