@@ -2,10 +2,10 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>todoist</id>
+    <id>todoist-new</id>
     <version>1.0.7</version>
     <title>Todoist</title>
-    <authors>BenjaminMichaelis</authors>
+    <authors>Doist</authors>
     <licenseUrl>https://doist.com/terms-of-service</licenseUrl>
     <projectUrl>https://todoist.com/</projectUrl>
     <tags>todoist to-do lists</tags>
