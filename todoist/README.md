@@ -1,9 +1,16 @@
-﻿## Summary
+## Summary
 How do I create packages? See https://docs.chocolatey.org/en-us/create/create-packages
 
 If you are submitting packages to the community feed (https://community.chocolatey.org)
 always try to ensure you have read, understood and adhere to the create
 packages wiki link above.
+
+## To push new changes
+```
+choco pack
+choco apikey --key <apikey> --source https://push.chocolatey.org/
+choco push todoist-desktop.<version>.nupkg -s https://push.chocolatey.org/
+```
 
 ## Automatic Packaging Updates?
 Consider making this package an automatic package, for the best
